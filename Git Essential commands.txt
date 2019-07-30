@@ -1,0 +1,5 @@
+Remove the all github.com credential details from the system.
+--------------------------------------------------------------------
+$ git credential-manager uninstall
+$ git credential-manager install
+
